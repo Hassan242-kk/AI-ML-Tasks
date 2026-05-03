@@ -49,17 +49,6 @@ The goal of these tasks is to build practical skills in data analysis, machine l
 * Added safety handling for sensitive inputs
 * Tools: Transformers (DistilGPT2)
 
-### Task 6: House Price Prediction
-
-* Preprocessed real estate dataset
-* Trained a **Linear Regression model**
-* Evaluated using:
-
-  * Mean Absolute Error (MAE)
-  * Root Mean Squared Error (RMSE)
-* Visualized actual vs predicted prices
-* Tools: Pandas, Scikit-learn, Matplotlib
-
 ## Technologies Used
 
 * Python
